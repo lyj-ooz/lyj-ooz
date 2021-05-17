@@ -9,7 +9,7 @@
   - 🖼 미술관에서 전시 작품을 구경하는 것을 좋아합니다.
   - 🎶 다양한 장르의 음악을 좋아합니다. 요즘에는 비트가 있는 인디팝, 시티팝 그리고 재즈를 자주 듣습니다.
   - 🚶걷는 것을 좋아합니다. 강가에서 걷고, 시내에서 걷고, 산에서 걷습니다.
-  - 🍲 세상의 많은 맛있는 음식들을 좋아합니다.
+  - 🍲 각국의 다양한 음식들을 좋아합니다.
 - 그리고 항상 이렇게 생각하자 다짐합니다. Just do it 🤸
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyj-ooz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
