@@ -1,10 +1,10 @@
 ### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
 - Vue & Typescript🧑‍💻
 - Currently involved in learning Swift & iOS app development📱
-- speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
-- love pilates & yoga 🧘
-- my jam: songs from Taylor's version
-- this glitter never goes away🏳️‍🌈
+- Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
+- Love pilates & yoga 🧘
+- My jam: songs from Taylor's version
+- This glitter never goes away🏳️‍🌈
 - **and... Just do it 🤸**
 <!-- ### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
 
