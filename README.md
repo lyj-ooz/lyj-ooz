@@ -1,3 +1,10 @@
+### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
+- Vue & Typescript🧑‍💻
+- Currently involved in learning Swift & iOS app development📱
+- speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
+- love pilates & yoga 🧘
+- my jam: songs from Taylor's version
+- well... Just do it 🤸
 <!-- ### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
 
 - 🌏 ProtoPie처럼 글로벌하게 사용되는 서비스를 만들고 싶은 프론트엔드 개발자입니다.
