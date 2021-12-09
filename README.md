@@ -2,6 +2,7 @@
 - Vue & Typescript🧑‍💻
 - Currently involved in learning Swift & iOS app development📱
 - Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
+- and currently learning some French🇫🇷
 - Love pilates & yoga 🧘
 - My jam: songs from Taylor's version
 - This glitter never goes away🏳️‍🌈
