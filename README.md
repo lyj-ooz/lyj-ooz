@@ -4,7 +4,7 @@
 - Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
 - and currently learning some French🇫🇷
 - Love pilates & yoga 🧘
-- My jam: songs from Taylor's version
+- My jam: All Too Well 10 minute version
 - This glitter never goes away🏳️‍🌈
 - **and... Just do it 🤸**
 <!-- ### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
