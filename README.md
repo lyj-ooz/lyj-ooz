@@ -6,7 +6,7 @@
 - Love pilates & yoga 🧘
 - My jam: All Too Well 10 minute version
 - it's not difficult - you just gotta get used to it💪
-- This glitter never goes away🏳️‍🌈
+- My glitter never goes away🏳️‍🌈
 - **and... Just do it 🤸**
 <!-- ### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
 
