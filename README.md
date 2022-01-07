@@ -3,7 +3,7 @@
 - Currently involved in learning Swift & iOS app development📱
 - Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
 - and currently learning some French🇫🇷
-- Love pilates & yoga 🧘
+- pilates & yoga person 🧘
 - My jam: All Too Well 10 minute version
 - it's not difficult - you just gotta get used to it💪
 - My glitter never goes away🏳️‍🌈
