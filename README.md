@@ -21,7 +21,7 @@
   - 🚶걷는 것을 좋아합니다. 강가에서 걷고, 시내에서 걷고, 산에서 걷습니다.
   - 🍲 각국의 다양한 음식들을 좋아합니다.
 - 그리고 항상 이렇게 생각하자 다짐합니다. Just do it 🤸
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyj-ooz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
  -->
+ 
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyj-ooz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
