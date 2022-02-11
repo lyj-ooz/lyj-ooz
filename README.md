@@ -1,13 +1,16 @@
 ### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
-- Vue & Typescript & Java Spring Boot🧑‍💻
-- Currently involved in learning Swift & iOS app development📱
-- Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
-- and currently learning some French🇫🇷
-- pilates & yoga person 🧘
-- My jam: All Too Well 10 minute version
-- it's not difficult - you just gotta get used to it💪
-- love wins🏳️‍🌈
-- **and... Just do it 🤸**
+
+- 🌏 ProtoPie처럼 글로벌하게 사용되는 서비스를 만들고 싶은 개발자입니다.
+- 🌱 웹 개발자로 시작했지만 지금은 ios 개발이 하고 싶어졌네요!
+- vue, javascript, typescript, java spring boot를 사용 했습니다.
+- 📚 (사실 학생이기도 합니다 소곤소곤.......)
+- 취미는 외국어 배우기입니다. 🇺🇸영어와 🇨🇳중국어를 할 줄 알며 요즘엔 🇫🇷프랑스어를 공부하고 있습니다.
+- 🖼 미술관에서 미술 작품 감상하는 것을 좋아합니다.
+- 🚶산책과 필라테스, 등산을 즐깁니다.
+- 🍲 각국의 다양한 음식들을 좋아합니다.
+- '어렵다'의 동의어는 '낯설다, 익숙하지 않다' 라고 생각합니다. 자주 접하다가 보면 언젠간 자신도 모르게 익숙해져 있겠죠!
+- 그리고 항상 이렇게 다짐합니다. Just do it 🤸
+
 <!-- ### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
 
 - 🌏 ProtoPie처럼 글로벌하게 사용되는 서비스를 만들고 싶은 프론트엔드 개발자입니다.
@@ -21,6 +24,18 @@
   - 🚶걷는 것을 좋아합니다. 강가에서 걷고, 시내에서 걷고, 산에서 걷습니다.
   - 🍲 각국의 다양한 음식들을 좋아합니다.
 - 그리고 항상 이렇게 생각하자 다짐합니다. Just do it 🤸
+
+### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
+- Vue & Typescript & Java Spring Boot🧑‍💻
+- Currently involved in learning Swift & iOS app development📱
+- Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
+- and currently learning some French🇫🇷
+- pilates & yoga person 🧘
+- My jam: All Too Well 10 minute version
+- it's not difficult - you just gotta get used to it💪
+- love wins🏳️‍🌈
+- **and... Just do it 🤸** 
+
  -->
  
  
