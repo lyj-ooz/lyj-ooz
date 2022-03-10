@@ -4,7 +4,7 @@
 - Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
 - and currently learning French🇫🇷
 - pilates & yoga person 🧘
-- it's not difficult - you just gotta get used to it💪
+- it's not difficult - you just need to get used to it💪
 - love wins 🏳️‍🌈
 - **and... Just do it 🤸** 
 <!--
