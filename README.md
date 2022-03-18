@@ -1,5 +1,5 @@
 ### 제 깃헙에 방문해 주셔서 감사합니다. Welcome to my github! 欢迎来到我的github 👋
-- Vue & Typescript & Java Spring Boot🧑‍💻
+- React/Vue & Typescript & Java Spring Boot🧑‍💻
 - Currently very curious about Swift & iOS app development📱
 - Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
 - and trying to learning some French🇫🇷
