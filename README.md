@@ -2,7 +2,7 @@
 - React/Vue & Typescript & Java Spring Boot🧑‍💻
 - Currently very curious about Swift & iOS app development📱
 - Speak Korean🇰🇷, Chinese🇨🇳 and English🇺🇸 (sometimes it's broken 👻)
-- and trying to learning some French🇫🇷
+- and trying to learn some French🇫🇷
 - pilates & yoga person 🧘
 - it's not difficult - you just need to get used to it💪
 - love wins 🏳️‍🌈
